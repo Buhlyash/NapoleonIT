@@ -1,7 +1,0 @@
-C:\Users\harch\source\repos\NapoleonIT\NapoleonIT\bin\Debug\NapoleonIT.exe.config
-C:\Users\harch\source\repos\NapoleonIT\NapoleonIT\bin\Debug\NapoleonIT.exe
-C:\Users\harch\source\repos\NapoleonIT\NapoleonIT\bin\Debug\NapoleonIT.pdb
-C:\Users\harch\source\repos\NapoleonIT\NapoleonIT\obj\Debug\NapoleonIT.csprojAssemblyReference.cache
-C:\Users\harch\source\repos\NapoleonIT\NapoleonIT\obj\Debug\NapoleonIT.csproj.CoreCompileInputs.cache
-C:\Users\harch\source\repos\NapoleonIT\NapoleonIT\obj\Debug\NapoleonIT.exe
-C:\Users\harch\source\repos\NapoleonIT\NapoleonIT\obj\Debug\NapoleonIT.pdb
