@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанные с этой сборкой.
-[assembly: AssemblyTitle("NapoleonIT")]
+[assembly: AssemblyTitle("Massiv")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("NapoleonIT")]
+[assembly: AssemblyProduct("Massiv")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID представляет идентификатор typelib, если этот проект доступен из модели COM
-[assembly: Guid("f185ec55-ec08-4582-9c73-1b85dcdc4d3c")]
+[assembly: Guid("2c981f57-2d28-40b1-a0de-3f0e2a716e87")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //

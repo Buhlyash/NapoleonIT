@@ -1,0 +1,7 @@
+C:\Users\harch\source\repos\NapoleonIT\Massiv\bin\Debug\Massiv.exe.config
+C:\Users\harch\source\repos\NapoleonIT\Massiv\bin\Debug\Massiv.exe
+C:\Users\harch\source\repos\NapoleonIT\Massiv\bin\Debug\Massiv.pdb
+C:\Users\harch\source\repos\NapoleonIT\Massiv\obj\Debug\Massiv.csproj.CoreCompileInputs.cache
+C:\Users\harch\source\repos\NapoleonIT\Massiv\obj\Debug\Massiv.exe
+C:\Users\harch\source\repos\NapoleonIT\Massiv\obj\Debug\Massiv.pdb
+C:\Users\harch\source\repos\NapoleonIT\Massiv\obj\Debug\Massiv.csprojAssemblyReference.cache
